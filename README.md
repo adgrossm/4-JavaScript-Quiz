@@ -2,7 +2,7 @@
 
 Deploted app https://adgrossm.github.io/4-JavaScript-Quiz/
 
-<img src="./assets/images/screenshot.JPG" alt="screenshot of javascript quiz">
+<img src="./Assets/images/screenshot.JPG" alt="screenshot of javascript quiz">
 
 The is project I created was to build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
